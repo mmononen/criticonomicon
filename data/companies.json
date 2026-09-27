@@ -1,0 +1,20 @@
+[
+    { "id": "1", "name": "Interplay", "countries": ["USA"] },
+    { "id": "2", "name": "MicroProse", "countries": ["USA"] },
+    { "id": "3", "name": "Bullfrog", "countries": ["UK"] },
+    { "id": "4", "name": "Electronic Arts", "countries": ["USA"] },
+    { "id": "5", "name": "Mindscape", "countries": ["USA"] },
+    { "id": "6", "name": "Delphine Software", "countries": ["France"] },
+    { "id": "7", "name": "U.S. Gold", "countries": ["UK"] },
+    { "id": "8", "name": "Twilight", "countries": ["UK"] },
+    { "id": "9", "name": "Ocean", "countries": ["UK"] },
+    { "id": "10", "name": "Capcom", "countries": ["Japan"] },
+    { "id": "11", "name": "Westwood", "countries": ["USA"] },
+    { "id": "12", "name": "SSI", "countries": ["USA"] },
+    { "id": "13", "name": "LucasArts", "countries": ["USA"] },
+    { "id": "14", "name": "Digital Image Design", "countries": ["UK"] },
+    { "id": "15", "name": "Creative Materials", "countries": ["UK"] },
+    { "id": "16", "name": "Argonaut Games", "countries": ["UK"] },
+    { "id": "17", "name": "Distinctive Software", "countries": ["Canada"] },
+    { "id": "18", "name": "Konami", "countries": ["Japan"] }
+]

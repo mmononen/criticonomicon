@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Criticonomicon — The Codex of Commercial Game Reviews</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="navbar">
+    <div class="brand">
+      <span class="icon">📜</span>
+      <h1>Criticonomicon</h1>
+    </div>
+    <p class="tagline">The Codex of Commercial Game Reviews</p>
+
+    <nav class="nav-links">
+      <button class="nav-link active" data-tab="archive">Archive</button>
+      <button class="nav-link" data-tab="stats">Statistics</button>
+    </nav>
+  </header>
+
+  <main class="container">
+
+    <!-- ARCHIVE VIEW -->
+    <div id="archive-view" class="view-section active">
+      <aside class="sidebar">
+        <h2>Inscribe Filters</h2>
+        
+        <div class="filter-group">
+          <label for="filter-genre">Genre</label>
+          <select id="filter-genre"><option value="">All Genres</option></select>
+        </div>
+
+        <div class="filter-group">
+          <label for="filter-platform">Platform</label>
+          <select id="filter-platform"><option value="">All Platforms</option></select>
+        </div>
+
+        <div class="filter-group">
+          <label for="filter-developer">Developer</label>
+          <select id="filter-developer"><option value="">All Developers</option></select>
+        </div>
+
+        <div class="filter-group">
+          <label for="filter-publisher">Publisher</label>
+          <select id="filter-publisher"><option value="">All Publishers</option></select>
+        </div>
+
+        <div class="filter-group">
+          <label for="filter-country">Country</label>
+          <select id="filter-country"><option value="">All Countries</option></select>
+        </div>
+
+        <div class="filter-group">
+          <label for="filter-publication">Publication</label>
+          <select id="filter-publication">
+            <option value="">All Publications</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <select id="filter-year-from">
+            <option value="">From Year</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <select id="filter-year-to">
+            <option value="">To Year</option>
+          </select>
+        </div>
+
+        <button id="reset-filters" class="btn-reset">Reset Filters</button>
+      </aside>
+
+      <section class="content">
+        <div class="controls-bar">
+          <div id="game-count">Consulting the archives...</div>
+          <div class="sort-group">
+            <label for="sort-order">Ordering:</label>
+            <select id="sort-order">
+              <option value="score-desc">Score: High to Low</option>
+              <option value="score-asc">Score: Low to High</option>
+              <option value="title-asc">Title: A-Z</option>
+              <option value="reviews-desc">Most Reviews</option>
+            </select>
+          </div>
+        </div>
+
+        <div>
+          <label class="toggle-control">
+            <input type="checkbox" id="toggle-bayesian" checked>
+            <span>Weighted Score</span>
+          </label>
+        </div>
+
+        <div id="game-list" class="game-list"></div>
+      </section>
+    </div>
+
+    <!-- STATISTICS VIEW -->
+    <div id="stats-view" class="view-section" style="display: none;">
+      <section id="stats-section" class="stats-container">
+        <h2>Archive Overview</h2>
+        
+        <div class="stats-summary-cards">
+          <div class="stat-card">
+            <span id="stat-total-games" class="stat-number">0</span>
+            <span class="stat-label">Total Games</span>
+          </div>
+          <div class="stat-card">
+            <span id="stat-total-reviews" class="stat-number">0</span>
+            <span class="stat-label">Total Reviews</span>
+          </div>
+          <div class="stat-card">
+            <span id="stat-overall-avg" class="stat-number">0</span>
+            <span class="stat-label">Global Mean Score</span>
+          </div>
+        </div>
+
+        <div class="stats-grid">
+          <div class="stats-box">
+            <h3>By Developer</h3>
+            <div id="stats-developers"></div>
+          </div>
+          <div class="stats-box">
+            <h3>By Publisher</h3>
+            <div id="stats-publishers"></div>
+          </div>
+          <div class="stats-box">
+            <h3>By Genre</h3>
+            <div id="stats-genres"></div>
+          </div>
+          <div class="stats-box">
+            <h3>By Platform</h3>
+            <div id="stats-platforms"></div>
+          </div>
+          <div class="stats-box">
+            <h3>By Publication</h3>
+            <div id="stats-publications"></div>
+          </div>
+          <div class="stats-box">
+            <h3>By Reviewer</h3>
+            <div id="stats-reviewers"></div>
+          </div>
+          <div class="stats-box">
+            <h3>By Country</h3>
+            <div id="stats-countries"></div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

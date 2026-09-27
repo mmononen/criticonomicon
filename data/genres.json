@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "Adventure" },
+  { "id": 2, "name": "Simulation" },
+  { "id": 3, "name": "Strategy" },
+  { "id": 4, "name": "RPG" },
+  { "id": 5, "name": "Action" },
+  { "id": 6, "name": "Sports" },
+  { "id": 7, "name": "Racing / Driving" }
+]
