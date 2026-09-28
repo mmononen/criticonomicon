@@ -190,5 +190,113 @@
         "mobygames_id": "29824",
         "igdb_id": "teenage-mutant-ninja-turtles-manhattan-missions",
         "hltb_id": null
+    },
+    {
+        "id": "17",
+        "title": "Ultima Underworld: The Stygian Abyss",
+        "years": [1992],
+        "platform_id": "1",
+        "genres": ["4"],
+        "developer_ids": ["19"],
+        "publisher_ids": ["20"],
+        "mobygames_id": "690",
+        "igdb_id": "ultima-underworld-the-stygian-abyss",
+        "hltb_id": 10764
+    },
+    {
+        "id": "18",
+        "title": "Space Gun",
+        "years": [1992],
+        "platform_id": "2",
+        "genres": ["5"],
+        "developer_ids": ["21"],
+        "publisher_ids": ["21"],
+        "mobygames_id": "11550",
+        "igdb_id": "space-gun",
+        "hltb_id": 8850
+    },
+    {
+        "id": "19",
+        "title": "Shuttle: The Space Flight Simulator",
+        "years": [1992],
+        "platform_id": "1",
+        "genres": ["2"],
+        "developer_ids": ["22"],
+        "publisher_ids": ["23"],
+        "mobygames_id": "9967",
+        "igdb_id": "shuttle-the-space-flight-simulator",
+        "hltb_id": 22948
+    },
+    {
+        "id": "20",
+        "title": "SimAnt",
+        "years": [1991],
+        "platform_id": "1",
+        "genres": ["2"],
+        "developer_ids": ["24"],
+        "publisher_ids": ["24"],
+        "mobygames_id": "1809",
+        "igdb_id": "simant",
+        "hltb_id": 8554
+    },
+    {
+        "id": "21",
+        "title": "Ork",
+        "years": [1992],
+        "platform_id": "2",
+        "genres": ["5"],
+        "developer_ids": ["25"],
+        "publisher_ids": ["26"],
+        "mobygames_id": "25731",
+        "igdb_id": "ork",
+        "hltb_id": 85240
+    },
+    {
+        "id": "22",
+        "title": "Twilight: 2000",
+        "years": [1991],
+        "platform_id": "1",
+        "genres": ["4", "3"],
+        "developer_ids": ["27"],
+        "publisher_ids": ["2"],
+        "mobygames_id": "2476",
+        "igdb_id": "twilight-2000",
+        "hltb_id": 62293
+    },
+    {
+        "id": "23",
+        "title": "Special Forces",
+        "years": [1992],
+        "platform_id": "2",
+        "genres": ["5", "3"],
+        "developer_ids": ["28"],
+        "publisher_ids": ["2"],
+        "mobygames_id": "5816",
+        "igdb_id": "special-forces",
+        "hltb_id": 25961
+    },
+    {
+        "id": "24",
+        "title": "Agony",
+        "years": [1992],
+        "platform_id": "2",
+        "genres": ["5"],
+        "developer_ids": ["29"],
+        "publisher_ids": ["26"],
+        "mobygames_id": "11920",
+        "igdb_id": "agony",
+        "hltb_id": 24645
+    },
+    {
+        "id": "25",
+        "title": "Falcon 3.0",
+        "years": [1991],
+        "platform_id": "1",
+        "genres": ["2"],
+        "developer_ids": ["30"],
+        "publisher_ids": ["2"],
+        "mobygames_id": "1629",
+        "igdb_id": "falcon-3-dot-0",
+        "hltb_id": null
     }
 ]

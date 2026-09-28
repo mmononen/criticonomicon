@@ -3,5 +3,6 @@
     { "id": "2", "name": "Jukka Tapanimäki", "publication_ids": ["1"] },
     { "id": "3", "name": "Tuija Linden", "publication_ids": ["1"] },
     { "id": "4", "name": "Ossi Mäntylahti", "publication_ids": ["1"] },
-    { "id": "5", "name": "Mikko Rintasaari", "publication_ids": ["1"] }
+    { "id": "5", "name": "Mikko Rintasaari", "publication_ids": ["1"] },
+    { "id": "6", "name": "Petri Teittinen", "publication_ids": ["1"] }
 ]

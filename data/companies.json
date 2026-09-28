@@ -16,5 +16,17 @@
     { "id": "15", "name": "Creative Materials", "countries": ["UK"] },
     { "id": "16", "name": "Argonaut Games", "countries": ["UK"] },
     { "id": "17", "name": "Distinctive Software", "countries": ["Canada"] },
-    { "id": "18", "name": "Konami", "countries": ["Japan"] }
+    { "id": "18", "name": "Konami", "countries": ["Japan"] },
+    { "id": "19", "name": "Looking Glass", "countries": ["USA"] },
+    { "id": "20", "name": "Origin Systems", "countries": ["USA"] },
+    { "id": "21", "name": "Taito", "countries": ["Japan"] },
+    { "id": "22", "name": "Vektor Grafix", "countries": ["UK"] },
+    { "id": "23", "name": "Virgin", "countries": ["UK"] },
+    { "id": "24", "name": "Maxis", "countries": ["USA"] },
+    { "id": "25", "name": "WJS Design", "countries": ["UK"] },
+    { "id": "26", "name": "Psygnosis", "countries": ["UK"] },
+    { "id": "27", "name": "Paragon Software", "countries": ["UK"] },
+    { "id": "28", "name": "Sleepless Knights", "countries": ["UK"] },
+    { "id": "29", "name": "Art & Magic", "countries": ["Belgium"] },
+    { "id": "30", "name": "Spectrum HoloByte", "countries": ["USA"] }
 ]
