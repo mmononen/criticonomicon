@@ -5,5 +5,6 @@
   { "id": 4, "name": "RPG" },
   { "id": 5, "name": "Action" },
   { "id": 6, "name": "Sports" },
-  { "id": 7, "name": "Racing / Driving" }
+  { "id": 7, "name": "Racing / Driving" },
+  { "id": 8, "name": "Educational" }
 ]

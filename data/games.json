@@ -298,5 +298,101 @@
         "mobygames_id": "1629",
         "igdb_id": "falcon-3-dot-0",
         "hltb_id": null
+    },
+    {
+        "id": "26",
+        "title": "EcoQuest: The Search for Cetus",
+        "years": [1991],
+        "platform_id": "1",
+        "genres": ["1", "8"],
+        "developer_ids": ["31"],
+        "publisher_ids": ["31"],
+        "mobygames_id": "584",
+        "igdb_id": "ecoquest-the-search-for-cetus",
+        "hltb_id": 3052
+    },
+    {
+        "id": "27",
+        "title": "Bonanza Bros.",
+        "years": [1991],
+        "platform_id": "2",
+        "genres": ["5"],
+        "developer_ids": ["32"],
+        "publisher_ids": ["32"],
+        "mobygames_id": "12370",
+        "igdb_id": "bonanza-bros",
+        "hltb_id": 1255
+    },
+    {
+        "id": "28",
+        "title": "Shadowlands",
+        "years": [1992],
+        "platform_id": "2",
+        "genres": ["4"],
+        "developer_ids": ["33"],
+        "publisher_ids": ["34"],
+        "mobygames_id": "14455",
+        "igdb_id": "shadowlands",
+        "hltb_id": 27233
+    },
+    {
+        "id": "29",
+        "title": "Black Crypt",
+        "years": [1992],
+        "platform_id": "2",
+        "genres": ["4"],
+        "developer_ids": ["35"],
+        "publisher_ids": ["4", "9"],
+        "mobygames_id": "9528",
+        "igdb_id": "black-crypt",
+        "hltb_id": 17783
+    },
+    {
+        "id": "30",
+        "title": "Ultima VI: The False Prophet",
+        "years": [1992],
+        "platform_id": "2",
+        "genres": ["4"],
+        "developer_ids": ["20"],
+        "publisher_ids": ["20"],
+        "mobygames_id": "104",
+        "igdb_id": "ultima-vi-the-false-prophet",
+        "hltb_id": 10767
+    },
+    {
+        "id": "31",
+        "title": "Race Drivin'",
+        "years": [1992],
+        "platform_id": "2",
+        "genres": ["7"],
+        "developer_ids": ["36"],
+        "publisher_ids": ["34"],
+        "mobygames_id": "5755",
+        "igdb_id": "race-drivin",
+        "hltb_id": 12663
+    },
+    {
+        "id": "32",
+        "title": "Harlequin",
+        "years": [1992],
+        "platform_id": "2",
+        "genres": ["5"],
+        "developer_ids": ["37"],
+        "publisher_ids": ["38"],
+        "mobygames_id": "13744",
+        "igdb_id": "harlequin",
+        "hltb_id": 62095
+    },
+    {
+        "id": "33",
+        "title": "Space Crusade",
+        "years": [1992],
+        "platform_id": "2",
+        "genres": ["3"],
+        "developer_ids": ["38"],
+        "publisher_ids": ["38"],
+        "mobygames_id": "2593",
+        "igdb_id": "space-crusade",
+        "hltb_id": 8844
     }
 ]

@@ -284,5 +284,104 @@
         "url": "https://archive.org/details/pelit-1992-02/page/n33/mode/1up",
         "issue": "1992-02",
         "published_date": "1992-04-01"
+    },
+    {
+        "id": "27",
+        "game_id": "26",
+        "publication_ids": ["1"],
+        "reviewer_ids": ["4"],
+        "score": 80,
+        "original_score_display": "80",
+        "url": "https://archive.org/details/pelit-1992-02/page/n35/mode/1up",
+        "issue": "1992-02",
+        "published_date": "1992-04-01"
+    },
+    {
+        "id": "28",
+        "game_id": "27",
+        "publication_ids": ["1"],
+        "reviewer_ids": ["2"],
+        "score": 65,
+        "original_score_display": "65",
+        "url": "https://archive.org/details/pelit-1992-02/page/n36/mode/1up",
+        "issue": "1992-02",
+        "published_date": "1992-04-01"
+    },
+    {
+        "id": "29",
+        "game_id": "28",
+        "publication_ids": ["1"],
+        "reviewer_ids": ["1"],
+        "score": 90,
+        "original_score_display": "90",
+        "url": "https://archive.org/details/pelit-1992-02/page/n37/mode/1up",
+        "issue": "1992-02",
+        "published_date": "1992-04-01"
+    },
+    {
+        "id": "30",
+        "game_id": "29",
+        "publication_ids": ["1"],
+        "reviewer_ids": ["3"],
+        "score": 90,
+        "original_score_display": "90",
+        "url": "https://archive.org/details/pelit-1992-02/page/n39/mode/1up",
+        "issue": "1992-02",
+        "published_date": "1992-04-01"
+    },
+    {
+        "id": "31",
+        "game_id": "30",
+        "publication_ids": ["1"],
+        "reviewer_ids": ["7"],
+        "score": 75,
+        "original_score_display": "75",
+        "url": "https://archive.org/details/pelit-1992-02/page/n41/mode/1up",
+        "issue": "1992-02",
+        "published_date": "1992-04-01"
+    },
+    {
+        "id": "32",
+        "game_id": "30",
+        "publication_ids": ["1"],
+        "reviewer_ids": ["1"],
+        "score": 75,
+        "original_score_display": "75",
+        "url": "https://archive.org/details/pelit-1992-02/page/n41/mode/1up",
+        "issue": "1992-02",
+        "published_date": "1992-04-01"
+    },
+    {
+        "id": "33",
+        "game_id": "31",
+        "publication_ids": ["1"],
+        "reviewer_ids": ["8", "9"],
+        "score": 73,
+        "original_score_display": "73",
+        "url": "https://archive.org/details/pelit-1992-02/page/n42/mode/1up",
+        "issue": "1992-02",
+        "published_date": "1992-04-01"
+    },
+    {
+        "id": "34",
+        "game_id": "32",
+        "publication_ids": ["1"],
+        "reviewer_ids": ["2"],
+        "score": 90,
+        "original_score_display": "90",
+        "url": "https://archive.org/details/pelit-1992-02/page/n43/mode/1up",
+        "issue": "1992-02",
+        "published_date": "1992-04-01"
+    },
+    {
+        "id": "35",
+        "game_id": "33",
+        "publication_ids": ["1"],
+        "reviewer_ids": ["8", "9"],
+        "score": 95,
+        "original_score_display": "95",
+        "url": "https://archive.org/details/pelit-1992-02/page/n43/mode/1up",
+        "issue": "1992-02",
+        "published_date": "1992-04-01"
     }
 ]
