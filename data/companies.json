@@ -36,5 +36,18 @@
     { "id": "35", "name": "Raven Software", "countries": ["USA"] },
     { "id": "36", "name": "Atari", "countries": ["USA"] },
     { "id": "37", "name": "The Warp Factory", "countries": ["UK"] },
-    { "id": "38", "name": "Gremlin Graphics", "countries": ["UK"] }
+    { "id": "38", "name": "Gremlin Graphics", "countries": ["UK"] },
+    { "id": "39", "name": "Thalion", "countries": ["Germany"] },
+    { "id": "40", "name": "221b Software Development", "countries": ["UK"] },
+    { "id": "41", "name": "Infogrames", "countries": ["France"] },
+    { "id": "42", "name": "The 8th Day", "countries": ["UK"] },
+    { "id": "43", "name": "Core Design", "countries": ["UK"] },
+    { "id": "44", "name": "Maelstorm Games", "countries": ["UK"] },
+    { "id": "45", "name": "Dynamix", "countries": ["USA"] },
+    { "id": "46", "name": "Emotional Pictures", "countries": ["Denmark"] },
+    { "id": "47", "name": "Interactivision A/S", "countries": ["Denmark"] },
+    { "id": "48", "name": "Leland", "countries": ["USA"] },
+    { "id": "49", "name": "SCi Games", "countries": ["UK"] },
+    { "id": "50", "name": "Kron Simulation Software", "countries": ["Germany"] },
+    { "id": "51", "name": "Software 2000", "countries": ["Germany"] }
 ]

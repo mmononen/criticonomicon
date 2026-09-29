@@ -7,5 +7,6 @@
     { "id": "6", "name": "Petri Teittinen", "publication_ids": ["1"] },
     { "id": "7", "name": "Jukka O. Kauppinen", "publication_ids": ["1"] },
     { "id": "8", "name": "Jukka Piira", "publication_ids": ["1"] },
-    { "id": "9", "name": "Pekka Piira", "publication_ids": ["1"] }
+    { "id": "9", "name": "Pekka Piira", "publication_ids": ["1"] },
+    { "id": "10", "name": "Pietari Varola", "publication_ids": ["1"] }
 ]
