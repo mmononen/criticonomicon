@@ -8,5 +8,7 @@
     { "id": "7", "name": "Jukka O. Kauppinen", "publication_ids": ["1"] },
     { "id": "8", "name": "Jukka Piira", "publication_ids": ["1"] },
     { "id": "9", "name": "Pekka Piira", "publication_ids": ["1"] },
-    { "id": "10", "name": "Pietari Varola", "publication_ids": ["1"] }
+    { "id": "10", "name": "Pietari Varola", "publication_ids": ["1"] },
+    { "id": "11", "name": "Jyrki J.J. Kasvi", "publication_ids": ["1"] },
+    { "id": "12", "name": "Jari Turunen", "publication_ids": ["1"] }
 ]

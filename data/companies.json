@@ -49,5 +49,13 @@
     { "id": "48", "name": "Leland", "countries": ["USA"] },
     { "id": "49", "name": "SCi Games", "countries": ["UK"] },
     { "id": "50", "name": "Kron Simulation Software", "countries": ["Germany"] },
-    { "id": "51", "name": "Software 2000", "countries": ["Germany"] }
+    { "id": "51", "name": "Software 2000", "countries": ["Germany"] },
+    { "id": "52", "name": "Oxford Digital Enterprises", "countries": ["UK"] },
+    { "id": "53", "name": "Empire", "countries": ["UK"] },
+    { "id": "54", "name": "Cryo", "countries": ["France"] },
+    { "id": "55", "name": "Cyberdreams", "countries": ["USA"] },
+    { "id": "56", "name": "The Software Toolworks", "countries": ["USA"] },
+    { "id": "57", "name": "Stormfront Studios", "countries": ["USA"] },
+    { "id": "58", "name": "Silicon Knights", "countries": ["Canada"] },
+    { "id": "59", "name": "Millennium Interactive", "countries": ["UK"] }
 ]
