@@ -57,5 +57,8 @@
     { "id": "56", "name": "The Software Toolworks", "countries": ["USA"] },
     { "id": "57", "name": "Stormfront Studios", "countries": ["USA"] },
     { "id": "58", "name": "Silicon Knights", "countries": ["Canada"] },
-    { "id": "59", "name": "Millennium Interactive", "countries": ["UK"] }
+    { "id": "59", "name": "Millennium Interactive", "countries": ["UK"] },
+    { "id": "60", "name": "Impressions", "countries": ["UK"] },
+    { "id": "61", "name": "Silmarils", "countries": ["France"] },
+    { "id": "62", "name": "Cineplay Interactive", "countries": ["USA"] }
 ]

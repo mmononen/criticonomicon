@@ -682,6 +682,42 @@
         "mobygames_id": "1400",
         "igdb_id": "cyber-empires",
         "hltb_id": null
+    },
+    {
+        "id": "58",
+        "title": "Fort Apache",
+        "years": [1991],
+        "platform_id": "2",
+        "genres": ["3"],
+        "developer_ids": ["60"],
+        "publisher_ids": ["60"],
+        "mobygames_id": "71689",
+        "igdb_id": "fort-apache",
+        "hltb_id": null
+    },
+    {
+        "id": "59",
+        "title": "Storm Master",
+        "years": [1992],
+        "platform_id": "2",
+        "genres": ["2", "3"],
+        "developer_ids": ["61"],
+        "publisher_ids": ["61"],
+        "mobygames_id": "1949",
+        "igdb_id": "storm-master",
+        "hltb_id": 50636
+    },
+    {
+        "id": "60",
+        "title": "Free D.C!",
+        "years": [1991],
+        "platform_id": "1",
+        "genres": ["1"],
+        "developer_ids": ["62"],
+        "publisher_ids": ["62"],
+        "mobygames_id": "160",
+        "igdb_id": "free-d-dot-c",
+        "hltb_id": null
     }
 
 ]
