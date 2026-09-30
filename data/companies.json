@@ -60,5 +60,8 @@
     { "id": "59", "name": "Millennium Interactive", "countries": ["UK"] },
     { "id": "60", "name": "Impressions", "countries": ["UK"] },
     { "id": "61", "name": "Silmarils", "countries": ["France"] },
-    { "id": "62", "name": "Cineplay Interactive", "countries": ["USA"] }
+    { "id": "62", "name": "Cineplay Interactive", "countries": ["USA"] },
+    { "id": "63", "name": "BlueSky Software", "countries": ["USA"] },
+    { "id": "64", "name": "Disney", "countries": ["USA"] },
+    { "id": "65", "name": "NovaLogic", "countries": ["USA"] }
 ]

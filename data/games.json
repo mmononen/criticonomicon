@@ -718,6 +718,54 @@
         "mobygames_id": "160",
         "igdb_id": "free-d-dot-c",
         "hltb_id": null
+    },
+    {
+        "id": "61",
+        "title": "Hare Raising Havoc",
+        "years": [1991],
+        "platform_id": "1",
+        "genres": ["1"],
+        "developer_ids": ["63"],
+        "publisher_ids": ["64"],
+        "mobygames_id": "4346",
+        "igdb_id": "hare-raising-havoc",
+        "hltb_id": null
+    },
+    {
+        "id": "62",
+        "title": "Hare Raising Havoc",
+        "years": [1991],
+        "platform_id": "2",
+        "genres": ["1"],
+        "developer_ids": ["63"],
+        "publisher_ids": ["64"],
+        "mobygames_id": "4346",
+        "igdb_id": "hare-raising-havoc",
+        "hltb_id": null
+    },
+    {
+        "id": "63",
+        "title": "The Manager",
+        "years": [1992],
+        "platform_id": "2",
+        "genres": ["2", "6"],
+        "developer_ids": ["50"],
+        "publisher_ids": ["51"],
+        "mobygames_id": "51906",
+        "igdb_id": "the-manager",
+        "hltb_id": null
+    },
+    {
+        "id": "64",
+        "title": "The Rocketeer",
+        "years": [1991],
+        "platform_id": "1",
+        "genres": ["5", "7"],
+        "developer_ids": ["65"],
+        "publisher_ids": ["64"],
+        "mobygames_id": "527",
+        "igdb_id": "the-rocketeer--1",
+        "hltb_id": null
     }
 
 ]
